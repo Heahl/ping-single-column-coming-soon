@@ -111,7 +111,7 @@ export default function Home() {
               />
             </div>
           </div>
-          <p className="text-sm font-extralight text-gray">
+          <p className="text-sm font-extralight text-gray lg:mb-2">
             © Copyright Ping. All rights reserved.
           </p>
         </div>
